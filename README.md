@@ -7,3 +7,6 @@ My New Book: Around AI in 80 Exercises
     * Batavia
     * PyPy.js
     * Pyodide 
+    * Transcrypt
+    * Brython
+    * Skulpt
