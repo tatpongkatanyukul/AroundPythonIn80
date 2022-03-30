@@ -6,7 +6,7 @@ My New Book: Around AI in 80 Exercises
   * [Run Python on Browser](https://yasoob.me/2019/05/22/running-python-in-the-browser/)
     * Batavia
     * PyPy.js
-      * built using [Emscripten](https://emscripten.org/) and PyPy
+      * built using [Emscripten](https://emscripten.org/) and [PyPy](https://www.pypy.org/)
     * Pyodide 
     * Transcrypt
     * Brython
