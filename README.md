@@ -28,3 +28,4 @@ My New Book: Around AI in 80 Exercises
       * code=consolas 12
       * url=Calibri 10
     * Color: to minimize the printing cost, keep the color palette as B/W as much as possible  
+    * Indexing: ```Insert > Reference > Index and Tables. Click the Table of Authorities tab```(Not tested yet!)
