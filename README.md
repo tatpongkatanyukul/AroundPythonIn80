@@ -21,4 +21,4 @@ My New Book: Around AI in 80 Exercises
 * Tool
   * Ms Word
     * Equation: shortcut is ```<Alt> + =``` (press ```<Alt>```, then ```=```) 
-    * Font: text=Th Sarabun New 14, hint=Th Sarabun New 14, math=Cambria Math 14, code=consolas 10
+    * Font: text=Th Sarabun New 14, hint=Th Sarabun New 14, math=Cambria Math 14, code=consolas 12
