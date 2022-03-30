@@ -26,3 +26,4 @@ My New Book: Around AI in 80 Exercises
       * Eng text=Calibri 14
       * math=Cambria Math 14
       * code=consolas 12
+    * Color: to minimize the printing cost, keep the color palette as B/W as much as possible  
