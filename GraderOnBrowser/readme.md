@@ -5,6 +5,7 @@ The accompanied tool: a web that provides autograders to exercises.
 
 ## Js to get a remote file
   * The autograder may be standardized (probably as the one used for autolab), but with a js wrapper.
+  * The reference answers may be stored as static files in a server.
 
 ```
 function getText(){
