@@ -25,7 +25,7 @@ My New Book: Around AI in 80 Exercises
       * Thai text=Th Sarabun New 14, hint=Th Sarabun New 14, caption=Th Sarabun New 12
       * Eng text=Calibri 14
       * math=Cambria Math 14
-      * code=consolas 12
+      * code=consolas 12 (code area) or 14 (code in text)
       * url=Calibri 10
     * Color: to minimize the printing cost, keep the color palette as B/W as much as possible  
     * Indexing: ```Insert > Reference > Index and Tables. Click the Table of Authorities tab```(Not tested yet!)
