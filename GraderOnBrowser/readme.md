@@ -39,3 +39,5 @@ function populateTables(){
     cell2.innerHTML = outer_text[1];
 }
 ```
+
+!!! This might not work, because JS prevents reading from other website, i.e., avoiding a risk of **cross site scripting**
