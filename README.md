@@ -8,4 +8,6 @@ See [this](https://github.com/tatpongkatanyukul/Problem-Solving) for ideas
 * Title: ท่องไพธอนใน 80+ แบบฝึกหัด (Around Python In 80+ Exercise)
   * More concise
 
+* Alternative names: Adventures of Programming (Python)
+
 ---
