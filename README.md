@@ -1,4 +1,4 @@
-# Around Python In 80+ Exercises
+# Around the World of Python Programming In 80+ Exercises
 
 Since I am not going to teach AI course anymore, I switch this book to Around Python in 80+ exercises
 
@@ -9,5 +9,7 @@ See [this](https://github.com/tatpongkatanyukul/Problem-Solving) for ideas
   * More concise
 
 * Alternative names: Adventures of Programming (Python)
+
+* I may add contents from various online courses, as "tidbit" (เกร็ดความรู้)
 
 ---
